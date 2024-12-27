@@ -1,8 +1,8 @@
 # Tugas-Hosting-Jarkom
 
 ## Profil Mahasiswa
-## Nama : Ahmad Nidzomunnashil 
-## NIM : 607012400122
+## Nama : Vikry Achmad Sonjaya Kusumah
+## NIM : 607012400001
 ## Kelas : D3-48-02
 
 ## Foto Profil
