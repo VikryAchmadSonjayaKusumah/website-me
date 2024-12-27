@@ -6,66 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tugas Besar Jaringan Komputer</title>
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 20px;
-        }
-
-        .container {
-            max-width: 100%;
-            margin: auto;
-            background: white;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-
-        h1 {
-            text-align: center;
-            background-color: red;
-        }
-
-        .profile {
-            display: flex;
-            align-items: center;
-            margin-bottom: 20px;
-        }
-
-        .profile-photo {
-            width: 150px;
-            height: 250px;
-            margin-right: 20px;
-            object-fit: cover;
-        }
-
-        .profile-info {
-            flex: 1;
-        }
-
-        .description {
-            margin-top: 20px;
-        }
-
-        button {
-            padding: 10px 15px;
-            background-color: red;
-            color: black;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-        }
-
-        button:hover {
-            background-color: white;
-        }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>Profil Mahasiswa</h1>
-        <div class="profile">
+        <div class="pr![WhatsApp Image 2024-12-26 at 21 05 57_04f6a3af](https://github.com/user-attachments/assets/46581da7-f3b5-4b13-8482-7bf7b291f8fd)
+ofile">
             <img src="WhatsApp Image 2024-12-26 at 21.05.57.jpeg" alt="" class="profile-photo">
             <div class="profile-info">
                 <h2>Nama: Vikry Achmad Sonjaya Kusumah</h2>
