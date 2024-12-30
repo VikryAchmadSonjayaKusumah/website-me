@@ -5,5 +5,5 @@
 ## NIM : 607012400001
 ## Kelas : D3-48-02
 
-## Foto Profil
+
 
